@@ -59,4 +59,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation(libs.androidx.lifecycle.viewmodel.compose)
     implementation(libs.androidx.activity.compose.v1121)
+    implementation(libs.mpandroidchart)
 }
